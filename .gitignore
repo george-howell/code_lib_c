@@ -1,3 +1,6 @@
 *.DS_Store
 
 *.settings
+
+*/models/data/
+*/c_sim/*/data/
